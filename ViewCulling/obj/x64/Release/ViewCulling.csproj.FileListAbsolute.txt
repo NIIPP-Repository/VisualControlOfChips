@@ -1,0 +1,16 @@
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\bin\x64\Release\ViewCulling.exe.config
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\bin\x64\Release\ViewCulling.exe
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\bin\x64\Release\ViewCulling.pdb
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormCalibration.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormCullingProject.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormMain.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormRgbAnalyze.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormAnalyze.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormSettings.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormShowPicture.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormAnalyzeView.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.FormWaferMap.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.Properties.Resources.resources
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.exe
+C:\Users\Руслан\Documents\GitHub\VisualCullingOfChips\ViewCulling\obj\x64\Release\ViewCulling.pdb
